@@ -1,2 +1,2 @@
-
-nacos/nacos-server:2.4.3
+nginx
+nacos/nacos-server
