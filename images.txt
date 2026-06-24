@@ -1,5 +1,5 @@
 nginx
-nacos/nacos-server:2.4.3
+nacos/nacos-server:v2.4.3
 mysql
 redis
 minio/minio
