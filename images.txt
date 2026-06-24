@@ -2,4 +2,4 @@ nginx
 nacos/nacos-server
 mysql
 redis
-minio
+minio/minio
