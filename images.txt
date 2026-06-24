@@ -1,2 +1,3 @@
 nginx
 nacos/nacos-server
+mysql
